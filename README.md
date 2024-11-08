@@ -2,7 +2,7 @@
 
 A Qt 6.8-based GUI application for generating movement paths on a grid map. This tool allows users to explore and output possible movement options for a unit positioned at the grid's center, along with various customization and sorting options.
 
-!(main.png)[https://github.com/Giacer/Grid-Path-Generator/blob/main/main.png]
+![main.png](https://github.com/Giacer/Grid-Path-Generator/blob/main/main.png)
 
 ## Features
 
