@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="b">resource/black_square.png</file>
+        <file alias="w">resource/white_square.png</file>
+        <file alias="background">resource/background.png</file>
+        <file alias="b_active">resource/black_square_active.png</file>
+        <file alias="w_active">resource/white_square_active.png</file>
+        <file alias="p">resource/pawn_.png</file>
+    </qresource>
+</RCC>
